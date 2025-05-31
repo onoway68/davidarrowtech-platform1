@@ -1,4 +1,0 @@
-Flask
-stripe
-python-dotenv
-gunicorn
