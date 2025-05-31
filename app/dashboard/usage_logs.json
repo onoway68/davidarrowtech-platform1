@@ -1,0 +1,20 @@
+[
+  {
+    "username": "admin",
+    "module": "DA Diagnostics",
+    "action": "API call",
+    "count": 43
+  },
+  {
+    "username": "admin",
+    "module": "DA Wellness",
+    "action": "Dashboard login",
+    "count": 5
+  },
+  {
+    "username": "admin",
+    "module": "DA Education",
+    "action": "Quiz Recommender",
+    "count": 8
+  }
+]
